@@ -33,3 +33,8 @@ function soma(a, b){
     return a + b
 }
 ```
+# Lista de Tarefas
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema bônus
+- [x] CSS do rodapé
