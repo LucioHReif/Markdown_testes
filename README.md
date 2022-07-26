@@ -24,5 +24,12 @@ __Melhoria 1__, Melhoria2, ...
 2. Integração com outros pagamentos
 3. Sistema de bônus de primeira compra
 
-# Links Interessantes
+# Links Interessantes:
 Contribuidor principal: http://www.github.com/LucioHReif
+
+# Códigos:
+```javaScript
+function soma(a, b){
+    return a + b
+}
+```
