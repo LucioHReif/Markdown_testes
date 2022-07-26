@@ -1,8 +1,9 @@
 # E-commerce para empresa x
-Vamos criar um projeto de ecommerce para a empresa x e blablabla
+Vamos criar um projeto de **ecommerce** para a *empresa x* e blablabla
 
 ## Funcionalidades:
-Checkout, Tela de Produto, Catálogo, ...
+_Checkout, **Tela de Produto**, Catálogo_
+**Checkin, _Tabela_, Home**
 
 ###### Melhorias:
-Melhoria 1, Melhoria2, ...
+__Melhoria 1__, Melhoria2, ...
