@@ -1,5 +1,5 @@
-# E-commerce para empresa x
-Vamos criar um projeto de **ecommerce** para a *empresa x* e blablabla
+# Aula de Markdown - Udemy
+Principais utilidades do markdown no projeto com README
 
 ## Funcionalidades:
 _Checkout, **Tela de Produto**, Catálogo_
